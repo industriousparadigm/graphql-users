@@ -1,0 +1,12 @@
+{
+  "users": [
+    { "id": "23", "firstName": "Miguel", "age": 60, "companyId": "1" },
+    { "id": "3", "firstName": "Zeca", "age": 32, "companyId": "5" },
+    { "id": "901", "firstName": "Wander", "age": 45, "companyId": "5" }
+  ],
+  "companies": [
+    { "id": 1, "name": "Lego", "description": "bricks for kids" },
+    { "id": 5, "name": "Harrys", "description": "shaving" },
+    { "id": 9, "name": "Playmobil", "description": "inferior bricks" }
+  ]
+}
